@@ -1,7 +1,11 @@
-package BS;
+package ALDS.Tree;
 
 /**
  * Created by wangziming on 5/19/16.
  */
-public class BasicBS {
+public class BT<T> {
+
+
+
+
 }
