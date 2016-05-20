@@ -11,15 +11,3 @@ public class BasicBS {
 }
 
 
-class TreeNode<T>{
-
-    T val;
-    TreeNode right;
-    TreeNode left;
-
-    public TreeNode(T val){
-        this.val = (T) val;
-    }
-
-
-}
