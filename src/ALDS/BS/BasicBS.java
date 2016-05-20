@@ -5,9 +5,11 @@ package ALDS.BS;
  */
 
 public class BasicBS {
+
     public static void main(String[] argvv){
         System.out.print("Helo");
     }
+
 }
 
 
