@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0a01c6c-f018-4893-b85a-95a09688a7fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCode/JavaMemoryCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCode/ObjectSizeCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ALDS/BS/BasicBS.java" afterPath="$PROJECT_DIR$/src/ALDS/BS/BasicBS.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ALDS/Tree/BT.java" afterPath="$PROJECT_DIR$/src/ALDS/Tree/BT.java" />
     </list>
     <ignored path="ALDS.iws" />
@@ -28,14 +25,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BT.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BT.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ALDS/Tree/BT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
               <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectSizeCalculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ObjectSizeCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaCode/ObjectSizeCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="172">
+              <caret line="160" column="47" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4900#4901#0" expanded="true" />
@@ -135,11 +140,11 @@
         <option value="$PROJECT_DIR$/src/JavaCode/GenericMethodClass.java" />
         <option value="$PROJECT_DIR$/src/JavaCode/JavaReflection.java" />
         <option value="$PROJECT_DIR$/src/ALDS/BS/BasicBS.java" />
-        <option value="$PROJECT_DIR$/src/ALDS/Tree/BT.java" />
         <option value="$PROJECT_DIR$/src/JavaCode/JavaMemoryCount.java" />
         <option value="$PROJECT_DIR$/src/JavaCode/CountOfSize.java" />
         <option value="$PROJECT_DIR$/src/JavaCode/ObjectSizeCounter.java" />
         <option value="$PROJECT_DIR$/src/JavaCode/ObjectSizeCalculator.java" />
+        <option value="$PROJECT_DIR$/src/ALDS/Tree/BT.java" />
       </list>
     </option>
   </component>
@@ -191,6 +196,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ALDS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectSizeCalculator.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -272,27 +299,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ObjectSizeCalculator">
-    <configuration default="false" name="GenericMethodClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="JavaCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaCode.GenericMethodClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ALDS" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GeneratedTree">
     <configuration default="false" name="JavaMemoryCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -361,6 +368,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="JavaCode.ObjectSizeCalculator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ALDS" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GeneratedTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ALDS.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ALDS.Tree.GeneratedTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -653,19 +680,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GenericMethodClass" />
-      <item index="1" class="java.lang.String" itemvalue="Application.JavaMemoryCount" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LocalTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ObjectSizeCounter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ObjectSizeCalculator" />
+      <item index="0" class="java.lang.String" itemvalue="Application.JavaMemoryCount" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LocalTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ObjectSizeCounter" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ObjectSizeCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GeneratedTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ObjectSizeCalculator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ObjectSizeCounter" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LocalTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JavaMemoryCount" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GenericMethodClass" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GeneratedTree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ObjectSizeCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ObjectSizeCounter" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LocalTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JavaMemoryCount" />
       </list>
     </recent_temporary>
   </component>
@@ -701,7 +728,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5032841" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329806" sideWeight="0.49671593" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329806" sideWeight="0.49671593" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -723,7 +750,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -758,17 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ALDS/Tree/BT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCode/JavaMemoryCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -790,12 +808,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCode/ObjectSizeCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="172">
+          <caret line="160" column="47" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4900#4901#0" expanded="true" />
             <element signature="e#4944#4945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ALDS/Tree/BT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
           </folding>
         </state>
       </provider>
